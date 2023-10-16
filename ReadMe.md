@@ -1,5 +1,6 @@
 # Topic Modelling of PDF data.
 
+Follow topic_modelling.ipynb file for details.
 We are given 32 pdf documents - which are research paper related to LENR (Low energy nuclear reactions). We do preprocessing and do topic modelling through clustering, tfidf and chatgpt api's.
 
 1. Data Cleaning.
